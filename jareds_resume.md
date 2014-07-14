@@ -6,8 +6,6 @@
 * LinkedIn - <https://www.linkedin.com/pub/jared-sasser/40/562/521>
 * Appleton, WI
 
----
-
 ## Intro
 
 I am a web developer. My focus is on the front-end, but I have some experience in the back-end as well. I have taught myself web development over the last couple of years with the occasional help of an experienced mentor.
@@ -44,15 +42,13 @@ I am a web developer. My focus is on the front-end, but I have some experience i
 
 ### Shopko - Customer Service, *Fall 2008 - Fall 2012*
 
----
-
 ## References
 * Technical: Caleb Madrigal
-   - Cell: 618-334-1919
-   - Email: caleb.madrigal@gmail.com
+    - Cell: 618-334-1919
+    - Email: caleb.madrigal@gmail.com
 * Character: Jeff Krumrei
-   - Cell: 734-716-8977
-   - Email: krumreij@gmail.com
+    - Cell: 734-716-8977
+    - Email: krumreij@gmail.com
 * Character: John McNeill
-   - Cell: 920-342-6259
-   - Email: john.mcneill655@gmail.com
+    - Cell: 920-342-6259
+    - Email: john.mcneill655@gmail.com
