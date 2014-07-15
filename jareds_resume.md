@@ -19,6 +19,7 @@ I am a web developer. My focus is on the front-end, but I have some experience i
 * Node.js
 * Express.js
 * Twitter Bootstrap
+* Python
 * Bash/Linux
 * Git
 * Firebase DB
@@ -38,7 +39,7 @@ I am a web developer. My focus is on the front-end, but I have some experience i
 
 * Developed front-end with HTML, CSS, Javascript, jQuery
 
-### J.J. Keller - Date Entry, *Fall 2012 - February 2012*
+### J.J. Keller - Data Entry, *Fall 2012 - February 2012*
 
 ### Shopko - Customer Service, *Fall 2008 - Fall 2012*
 
