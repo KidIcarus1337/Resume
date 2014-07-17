@@ -8,12 +8,12 @@
 
 ## Intro
 
-I am a web developer. My focus is on the front-end, but I have some experience in the back-end as well. I have taught myself web development over the last couple of years with the occasional help of an experienced mentor.
+I am a web developer. My focus is on the front-end, but I have some experience in the back-end as well in Node.js and Python. I have taught myself over the last couple of years with the aid several online courses and occasional help of an experienced mentor.
 
 ## Tech Skills
 
-* HTML
-* CSS
+* HTML5
+* CSS3
 * JavaScript
 * jQuery
 * Node.js
@@ -29,19 +29,42 @@ I am a web developer. My focus is on the front-end, but I have some experience i
 
 ### Personal Projects - Web Developer, *March 2013 - Present*
 
-##### [Snow App Project](http://snow-app-project.herokuapp.com/)
+##### Snow App Project - <http://snow-app-project.herokuapp.com/>
 
+* Prototype web app for a project which would allow people to hire others to shovel their driveway
 * Developed front-end with HTML, CSS, Javascript, jQuery, Bootstrap
-* Wrote back-end with Node.js and Express.js
+* Wrote back-end with Node.js and Express.js, including registration and login functionality
 * Integrated with Firebase DB
 
-##### [Game Project](http://kidicarus1337.github.io/Game-Project/public)
+##### Game Project - <http://kidicarus1337.github.io/Game-Project/public>
 
+* Unfinished text-based game developed in my free time for experience
 * Developed front-end with HTML, CSS, Javascript, jQuery
 
-### J.J. Keller - Data Entry, *Fall 2012 - February 2012*
+### J.J. Keller - Data Entry, *Fall 2012 - February 2013*
+
+* Helped migrate customer information to a new server setup
 
 ### Shopko - Customer Service, *Fall 2008 - Fall 2012*
+
+* Primarily worked as a cashier and store front stocker
+* Occasionally did some miscellaneous work
+
+## Education
+
+### Codeacademy, *2013*
+
+* HTML & CSS
+* JavaScript
+* jQuery
+* Web Projects
+
+### Udacity, *2012 - 2013*
+
+* CS101 - Intro to Computer Science
+* CS253 - Web Development
+
+### High School Graduate, *2006 - 2010*
 
 ## References
 * Technical: Caleb Madrigal
