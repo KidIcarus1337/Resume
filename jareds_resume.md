@@ -27,19 +27,28 @@ I am a web developer. My focus is on the front-end, but I have some experience i
 
 ## Work Experience
 
-### Personal Projects - Web Developer, *March 2013 - Present*
+### Professional Experience - Web Developer, *February 2015 - Present*
+
+#### High Altitude Science
+
+##### Web Developer, *February 2015 - March 2015*
+
+* Designed and developed the front-end for the Weather Balloon Flight Simulator app
+* Front-end developed with HTML, CSS, JavaScript, jQuery, Bootstrap, slick
+
+### Personal Projects - Web Developer, *March 2013 - February 2015*
 
 ##### Snow App Project - <http://snow-app-project.herokuapp.com/>
 
-* Prototype web app for a project which would allow people to hire others to shovel their driveway
-* Developed front-end with HTML, CSS, Javascript, jQuery, Bootstrap
+* Unfinished prototype web app for a project which would allow people to hire others to shovel their driveway
+* Developed front-end with HTML, CSS, JavaScript, jQuery, Bootstrap
 * Wrote back-end with Node.js and Express.js, including registration and login functionality
 * Integrated with Firebase DB
 
 ##### Game Project - <http://kidicarus1337.github.io/Game-Project/public>
 
 * Unfinished text-based game developed in my free time for experience
-* Developed front-end with HTML, CSS, Javascript, jQuery
+* Developed front-end with HTML, CSS, JavaScript, jQuery
 
 ### J.J. Keller - Data Entry, *Fall 2012 - February 2013*
 
