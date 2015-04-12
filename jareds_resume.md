@@ -16,14 +16,14 @@ I am a web developer. My focus is on the front-end, but I have some experience i
 * CSS3
 * JavaScript
 * jQuery
+* Twitter Bootstrap
+* slick
+* Git
 * Node.js
 * Express.js
-* Twitter Bootstrap
-* Python
 * Bash/Linux
-* Git
+* Python
 * Firebase DB
-* Trello
 
 ## Work Experience
 
