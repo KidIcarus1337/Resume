@@ -8,7 +8,7 @@
 
 ## Intro
 
-I am a web developer. My focus is on the front-end, but I have some experience in the back-end as well in Node.js and Python. I have taught myself over the last couple of years with the aid several online courses and occasional help of an experienced mentor.
+I am a web developer. My focus is on the front-end, but I have some experience in the back-end as well in Node.js and Python. I have taught myself over the last couple of years with the aid of several online courses and occasional help of an experienced mentor.
 
 ## Tech Skills
 
@@ -33,8 +33,9 @@ I am a web developer. My focus is on the front-end, but I have some experience i
 
 ##### Web Developer, *February 2015 - March 2015*
 
-* Designed and developed the front-end for the Weather Balloon Flight Simulator app
-* Front-end developed with HTML, CSS, JavaScript, jQuery, Bootstrap, slick
+* Designed and developed the front-end for the Weather Balloon Flight Simulator web app
+* Front-end developed with HTML, CSS, JavaScript, jQuery, Bootstrap, slick, autoNumeric
+* Designed as a single-page app. This involved using slick to set up a slider that seperated the three portions of the simulator - one for the input parameters (launch date, burst altitude, etc.), one for the starting coordinates, and one for the results.
 
 ### Personal Projects - Web Developer, *March 2013 - February 2015*
 
