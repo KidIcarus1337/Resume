@@ -29,6 +29,14 @@ I am a web developer. My focus is on the front-end, but I have some experience i
 
 ### Professional Experience - Web Developer, *February 2015 - Present*
 
+#### DealerFire
+
+##### Web Developer, *April 27th, 2015 - Present*
+
+* Primary task involved using pre-made modules to create websites for car dealership/company clients.
+* Languages/libraries utilized included HTML5, CSS3, JavaScript, jQuery, Bootstrap, etc.
+* Other duties included communication with customers via the Salesforce system, e-mail, or phone on a consistent basis to keep up to date on changes made to the respective sites.
+
 #### High Altitude Science
 
 ##### Web Developer, *February 2015 - March 2015*
