@@ -31,7 +31,7 @@ I am a web developer. My focus is on the front-end, but I have some experience i
 
 #### DealerFire
 
-##### Web Developer, *April 27th, 2015 - Present*
+##### Web Developer, *April 27th, 2015 - June 25th, 2015*
 
 * Primary task involved using pre-made modules to create websites for car dealership/company clients.
 * Languages/libraries utilized included HTML5, CSS3, JavaScript, jQuery, Bootstrap, etc.
