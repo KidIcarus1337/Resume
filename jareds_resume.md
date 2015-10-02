@@ -42,22 +42,38 @@ I am a web developer. My focus is on the front-end, but I have some experience i
 ##### Web Developer, *February 2015 - March 2015*
 
 * Designed and developed the front-end for the Weather Balloon Flight Simulator web app
-* Front-end developed with HTML, CSS, JavaScript, jQuery, Bootstrap, slick, autoNumeric
+* Front-end developed with HTML5, CSS3, JavaScript, jQuery, Bootstrap, slick, autoNumeric
 * Built as a single-page app. This involved using slick to set up a slider that separated the three portions of the simulator - one for the input parameters (launch date, burst altitude, etc.), one for the starting coordinates, and one for the results.
 
-### Personal Projects - Web Developer, *March 2013 - February 2015*
+--
 
-##### Snow App Project - <http://snow-app-project.herokuapp.com/>
+### Personal Projects
 
-* Unfinished prototype web app for a project which would allow people to hire others to shovel their driveway
+##### Galaxy Tanks - (In development)
+
+* Live demo: <http://kidicarus1337.github.io/galaxy-tanks/>
+* Repo: <https://github.com/KidIcarus1337/galaxy-tanks>
+* A single-page app (SPA) built on the HTML5 canvas that is a space-themed version of the classic tanks game
+* Front-end developed with HTML5, CSS3, JavaScript, jQuery, Fabric.js
+* Utilizes a custom-built physics engine that simulates gravity and collision detection among other things
+
+##### Snow App Project
+
+* Live demo: <http://snow-app-project.herokuapp.com/>
+* Repo: <https://github.com/KidIcarus1337/SnowProject>
+* Unfinished prototype web app for a project which would've allowed people to hire others to shovel their driveway
 * Developed front-end with HTML, CSS, JavaScript, jQuery, Bootstrap
 * Wrote back-end with Node.js and Express.js, including registration and login functionality
 * Integrated with Firebase DB
 
-##### Game Project - <http://kidicarus1337.github.io/Game-Project/public>
+##### Text-game Project
 
+* Live demo: <http://kidicarus1337.github.io/Game-Project/public>
+* Repo: <https://github.com/KidIcarus1337/Game-Project>
 * Unfinished text-based game developed in my free time for experience
 * Developed front-end with HTML, CSS, JavaScript, jQuery
+
+--
 
 ### J.J. Keller - Data Entry, *Fall 2012 - February 2013*
 
