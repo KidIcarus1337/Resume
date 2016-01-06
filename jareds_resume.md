@@ -27,7 +27,7 @@ I am a web developer. My focus is on the front-end, but I have some experience i
 
 ## Work Experience
 
-### Professional Experience - Web Developer, *February 2015 - Present*
+### Professional Experience - Web Developer
 
 #### High Altitude Science
 
