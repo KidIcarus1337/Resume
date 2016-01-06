@@ -4,7 +4,7 @@
 * Cell - 920-202-0146
 * GitHub - <https://github.com/KidIcarus1337>
 * LinkedIn - <https://www.linkedin.com/pub/jared-sasser/40/562/521>
-* Appleton, WI
+* Milwaukee, WI
 
 ## Intro
 
@@ -29,17 +29,9 @@ I am a web developer. My focus is on the front-end, but I have some experience i
 
 ### Professional Experience - Web Developer, *February 2015 - Present*
 
-#### DealerFire
-
-##### Web Developer, *April 27th, 2015 - June 25th, 2015*
-
-* Primary task involved using pre-made modules to create websites for car dealership/company clients.
-* Languages/libraries utilized included HTML5, CSS3, JavaScript, jQuery, Bootstrap, etc.
-* Other duties included communication with customers via the Salesforce system, e-mail, or phone on a consistent basis to keep up to date on changes made to the respective sites.
-
 #### High Altitude Science
 
-##### Web Developer, *February 2015 - March 2015*
+##### Web Developer, *(short-term contract) February 2015 - March 2015*
 
 * Designed and developed the front-end for the Weather Balloon Flight Simulator web app
 * Front-end developed with HTML5, CSS3, JavaScript, jQuery, Bootstrap, slick, autoNumeric
