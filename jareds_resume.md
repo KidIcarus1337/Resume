@@ -16,14 +16,15 @@ I am a web developer. My focus is on the front-end, but I have some experience i
 * CSS3
 * JavaScript
 * jQuery
+* React
 * Twitter Bootstrap
-* slick
 * Git
+* Firebase DB
+* Gulp
 * Node.js
 * Express.js
 * Bash/Linux
 * Python
-* Firebase DB
 
 ## Work Experience
 
@@ -41,11 +42,18 @@ I am a web developer. My focus is on the front-end, but I have some experience i
 
 ### Personal Projects
 
-##### Galaxy Tanks - (In development)
+##### Collaboralist - <https://collaboralist.github.io/>
+
+* Repo: <https://github.com/KidIcarus1337/collaboralist>
+* Single-page app for creating and maintaining collaborative shopping lists
+* Developed using React, Babel, gulp, Firebase, and other miscellaneous technologies
+* Compatibilty with GitHub Pages is made possible by the utilization of Firebase as a database. Interactions with Firebase handled by [re-base](https://github.com/tylermcginnis/re-base)
+
+##### Galaxy Tanks
 
 * Live demo: <http://kidicarus1337.github.io/galaxy-tanks/>
 * Repo: <https://github.com/KidIcarus1337/galaxy-tanks>
-* A single-page app (SPA) built on the HTML5 canvas that is a space-themed version of the classic tanks game
+* Unfinished single-page app built on the HTML5 canvas that is a space-themed version of the classic tanks game
 * Front-end developed with HTML5, CSS3, JavaScript, jQuery, Fabric.js
 * Utilizes a custom-built physics engine that simulates gravity and collision detection among other things
 
