@@ -1,6 +1,6 @@
 # Jared Sasser
 
-* Email - kid_icarus3@yahoo.com
+* Email - jared.sasser@protonmail.com
 * Cell - 920-202-0146
 * GitHub - <https://github.com/KidIcarus1337>
 * LinkedIn - <https://www.linkedin.com/pub/jared-sasser/40/562/521>
@@ -91,6 +91,13 @@ I am a software developer who has taught himself over the years with the aid of 
 * Developed front-end with HTML, CSS, JavaScript, jQuery.
 
 --
+
+### U.S. Venture - Finance Ops Specialist, *January 23rd, 2023 - March 10th, 2023*
+
+* Temporary position primarily involving data entry work migrating customer information
+across systems.
+* Assisted the department with a number of miscellaneous tasks at various stages
+throughout the project including collection calls, invoice filings, and credit reconciliations.
 
 ### CapTel - Captioning Assistant, *March 2017 - March 2019*
 
